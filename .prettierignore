@@ -1,6 +1,7 @@
-/dist
 /api-docs
-package-lock.json
-/coverage
-libs/
 /api-extractor/report*
+/coverage
+/demo/libs
+/dist
+/lib
+package-lock.json
